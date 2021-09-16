@@ -1,0 +1,25 @@
+#CPIII {
+    align-content: center;
+    color:black; /*cor da letra*/
+    background-color: seagreen; /*cor do fundo*/
+    width: 100%;
+    margin-top: 0rem;
+    margin: 3.2rem;
+    padding-top: 1rem;
+    padding-bottom: 6.4rem;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#CPIII {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.container {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+}

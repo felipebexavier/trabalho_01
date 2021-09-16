@@ -1,0 +1,53 @@
+/*
+    Configuraçoes do componente Header
+*/
+.menu {
+    height: 40px;
+    border-top: 1px solid rgb(43, 32, 18);
+    background-color: rgb(19, 19, 3);
+    padding-bottom: 8px;
+    font-size: 16px;
+    top: 0;
+    width: 100%;
+}
+
+.navMenu ul {
+    list-style: none;
+    text-align: center;
+}
+
+.navMenu ul li {
+    display: inline;
+}
+
+.navMenu ul li a {
+    padding-left: 4.5vw;
+    padding-right: 4.5vw;
+    padding-top: 1vh;
+    display: inline-block;
+    color: rgb(180, 177, 0);
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: .8rem;
+}
+
+.navMenu ul li a:hover {
+    background-color: rgb(224, 209, 0);
+    color: rgb(19, 19, 3);
+    font-weight: bold;
+    font-size: 18;
+}
+
+.imapirami {
+    height: 30rem;
+    width: 100%;
+    display: flex;
+}
+
+.imario {
+    height: 10rem;
+    width: 100%;
+    display: flex;
+}
